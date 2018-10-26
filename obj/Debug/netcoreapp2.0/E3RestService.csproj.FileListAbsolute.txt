@@ -1,0 +1,22 @@
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.deps.json
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.runtimeconfig.json
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.runtimeconfig.dev.json
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.dll
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.pdb
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.csprojResolveAssemblyReference.cache
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.csproj.CoreCompileInputs.cache
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.AssemblyInfoInputs.cache
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.AssemblyInfo.cs
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.dll
+C:\Users\Klolensen\Documents\Visual Studio 2017\Projects\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.pdb
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.deps.json
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.runtimeconfig.json
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.runtimeconfig.dev.json
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.dll
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\bin\Debug\netcoreapp2.0\E3RestService.pdb
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.csprojAssemblyReference.cache
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.csproj.CoreCompileInputs.cache
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.AssemblyInfoInputs.cache
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.AssemblyInfo.cs
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.dll
+C:\Users\Klolensen\Dropbox\Skole\Datamatiker\HjælpeLærer\E3RestService\obj\Debug\netcoreapp2.0\E3RestService.pdb
